@@ -5,7 +5,7 @@ Disarming all the bombs successfully within the given time limit would take the 
 Each user would have a login profile that uses parse as the backend to store user profile details along with progress, etc. 
 
 
-##Functional stories
+## Functional stories
  - Implement an initial screen that will consist of several options - login, quick start, settings, high scores and about. 
  - Login takes the user to a login screen that will use parse as the back end to store each users details - id, highscores, etc
  - Quick start would take the user directly to the first stage to give him/her an idea of the feel of the game
