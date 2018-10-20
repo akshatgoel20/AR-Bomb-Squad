@@ -17,4 +17,14 @@ Each user would have a login profile that uses parse as the backend to store use
  - Create a timer countdown that gives the user a set time to finish each stage
  - Increase difficulty level by placing obsticals to hide the bomb and giving a shorter time to find and disarm the bomb. Will also modify disarming devices and create multiple devices for disarming different types of bombs.
  
+ ## Tables and columns needed in parse
+ 
+ Two Tables 
+ 1. Global table
+ 2. User local table
+ 
+Columns
+1.1 - Username, High Scores
+1.2 - Username, User High Scores
+ 
 
