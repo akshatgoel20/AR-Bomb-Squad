@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '0A2E50C24B03143F1418B06D739A8001'
-               BlueprintName = 'MZTimerLabel'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'MZTimerLabel.framework'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5DA9D424D96F4D772D20C95ED50F5163"
+               BlueprintName = "MZTimerLabel"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "MZTimerLabel.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

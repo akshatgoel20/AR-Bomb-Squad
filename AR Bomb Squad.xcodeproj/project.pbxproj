@@ -255,7 +255,6 @@
 				AC86822D1FE10B2200F0E067 /* Frameworks */,
 				AC86822E1FE10B2200F0E067 /* Resources */,
 				C270201A0148C767F33AA6A9 /* [CP] Embed Pods Frameworks */,
-				7C4271B622581C76FB0E63CE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -320,21 +319,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		7C4271B622581C76FB0E63CE /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		8C8F499C25F151430886AAE5 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -359,7 +343,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/MZTimerLabel/MZTimerLabel.framework",
 				"${BUILT_PRODUCTS_DIR}/STZPopupView/STZPopupView.framework",
 			);
@@ -370,7 +354,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
