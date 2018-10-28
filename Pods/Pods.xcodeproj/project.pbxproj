@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -43,7 +43,7 @@
 		00657C02F2171ED1F36A3D222B8B1112 /* MZTimerLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MZTimerLabel.modulemap; sourceTree = "<group>"; };
 		024D6F66711DE8D9F494BB2B115B0E1A /* MZTimerLabel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MZTimerLabel-prefix.pch"; sourceTree = "<group>"; };
 		1F31C0DC99EA0AC1E093315A1742F58E /* MZTimerLabel-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MZTimerLabel-Info.plist"; sourceTree = "<group>"; };
-		2CA7E65B92064CB3F869EFCF8E623C54 /* Pods_AR_Bomb_Squad.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AR_Bomb_Squad.framework; path = "Pods-AR Bomb Squad.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CA7E65B92064CB3F869EFCF8E623C54 /* Pods_AR_Bomb_Squad.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AR_Bomb_Squad.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		323F44D5F686ED0D3E2C6E2D3C64CFAF /* STZPopupView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "STZPopupView-prefix.pch"; sourceTree = "<group>"; };
 		39B23E88D5AC629DC7156E819F613742 /* Pods-AR Bomb Squad.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AR Bomb Squad.modulemap"; sourceTree = "<group>"; };
 		3B7A51C1BC79EFA16B384548AE5416F0 /* Pods-AR Bomb Squad-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AR Bomb Squad-Info.plist"; sourceTree = "<group>"; };
@@ -55,14 +55,14 @@
 		87CFB01024588C39CF78FA334E7BDA09 /* Pods-AR Bomb Squad-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AR Bomb Squad-frameworks.sh"; sourceTree = "<group>"; };
 		87ED7FED15A4BA059E406F2469281353 /* STZPopupViewConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = STZPopupViewConfig.swift; path = Source/STZPopupViewConfig.swift; sourceTree = "<group>"; };
 		8DC001CDFD19462FCAAC4BB47C65EB4B /* MZTimerLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MZTimerLabel-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A393C4248285972C8DFD1C6498ED54E4 /* MZTimerLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MZTimerLabel.h; path = MZTimerLabel/MZTimerLabel.h; sourceTree = "<group>"; };
-		AAF79FEA582B73F458BA4A5FFD1853C7 /* MZTimerLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MZTimerLabel.framework; path = MZTimerLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AAF79FEA582B73F458BA4A5FFD1853C7 /* MZTimerLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MZTimerLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B43C591F5928FCB2ED807A3F58FF5CB1 /* Pods-AR Bomb Squad-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AR Bomb Squad-umbrella.h"; sourceTree = "<group>"; };
 		BD8C73B31DBBE5232AA9E87F57EBDF3B /* STZPopupView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "STZPopupView-umbrella.h"; sourceTree = "<group>"; };
 		BE8D151B67998349BA8BD2FB11FE4696 /* MZTimerLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MZTimerLabel-umbrella.h"; sourceTree = "<group>"; };
 		C4AAEABA1A26C91DB97D7B50CF3560AE /* MZTimerLabel.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MZTimerLabel.xcconfig; sourceTree = "<group>"; };
-		CAEE2F8D4A98A027BE7E47F5E04DB87D /* STZPopupView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = STZPopupView.framework; path = STZPopupView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CAEE2F8D4A98A027BE7E47F5E04DB87D /* STZPopupView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = STZPopupView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD9480BC406874A9209191A86D0EB956 /* UIViewController+STZPopupView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+STZPopupView.swift"; path = "Source/UIViewController+STZPopupView.swift"; sourceTree = "<group>"; };
 		D4A7BEED9BF64F7A4D2DED3E9A4C0727 /* Pods-AR Bomb Squad-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AR Bomb Squad-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E150F85662AAC9E4838953D90486F73F /* Pods-AR Bomb Squad-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AR Bomb Squad-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -121,7 +121,6 @@
 				3FA1E53ADE7015B1FA19734CDAF155A0 /* MZTimerLabel.m */,
 				2944B3D183FBDFAC8EBF2CFBCD6D4543 /* Support Files */,
 			);
-			name = MZTimerLabel;
 			path = MZTimerLabel;
 			sourceTree = "<group>";
 		};
@@ -132,7 +131,6 @@
 				CD9480BC406874A9209191A86D0EB956 /* UIViewController+STZPopupView.swift */,
 				A0AEA2C5C4AE3CFBFAF2687527E9147D /* Support Files */,
 			);
-			name = STZPopupView;
 			path = STZPopupView;
 			sourceTree = "<group>";
 		};
@@ -315,7 +313,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1000;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -411,7 +409,6 @@
 			baseConfigurationReference = FF28788BAD315D6149F6110C60FF80B8 /* Pods-AR Bomb Squad.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -425,11 +422,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad.modulemap";
 				OTHER_LDFLAGS = "";
@@ -451,7 +444,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E413B23D74AA91A50382EEE52F37D7A2 /* STZPopupView.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -465,11 +457,7 @@
 				INFOPLIST_FILE = "Target Support Files/STZPopupView/STZPopupView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/STZPopupView/STZPopupView.modulemap";
 				PRODUCT_MODULE_NAME = STZPopupView;
 				PRODUCT_NAME = STZPopupView;
@@ -539,6 +527,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -547,7 +536,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E413B23D74AA91A50382EEE52F37D7A2 /* STZPopupView.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -561,19 +549,14 @@
 				INFOPLIST_FILE = "Target Support Files/STZPopupView/STZPopupView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/STZPopupView/STZPopupView.modulemap";
 				PRODUCT_MODULE_NAME = STZPopupView;
 				PRODUCT_NAME = STZPopupView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -651,7 +634,6 @@
 			baseConfigurationReference = 85B2376901F9D9FF7CCEA1291421294D /* Pods-AR Bomb Squad.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -665,11 +647,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad.modulemap";
 				OTHER_LDFLAGS = "";
@@ -679,8 +657,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -692,7 +669,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C4AAEABA1A26C91DB97D7B50CF3560AE /* MZTimerLabel.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -706,11 +682,7 @@
 				INFOPLIST_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel.modulemap";
 				PRODUCT_MODULE_NAME = MZTimerLabel;
 				PRODUCT_NAME = MZTimerLabel;
@@ -728,7 +700,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C4AAEABA1A26C91DB97D7B50CF3560AE /* MZTimerLabel.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -742,11 +713,7 @@
 				INFOPLIST_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel.modulemap";
 				PRODUCT_MODULE_NAME = MZTimerLabel;
 				PRODUCT_NAME = MZTimerLabel;
