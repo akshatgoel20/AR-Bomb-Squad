@@ -3,73 +3,73 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		005B70F9BE90730CC4DD68BF32E6C20A /* MZTimerLabel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BE8D151B67998349BA8BD2FB11FE4696 /* MZTimerLabel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1C0071EC34573DAF3BAF60B1A3A0AFEE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		21B6EB41F3A3E3CDE679B59B0084DB9B /* STZPopupView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BD8C73B31DBBE5232AA9E87F57EBDF3B /* STZPopupView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		29649866297DF4AFBDFE6E6E71081C50 /* UIViewController+STZPopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9480BC406874A9209191A86D0EB956 /* UIViewController+STZPopupView.swift */; };
-		337360981356ECCE7A837399087EFEB5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		58A0CBAB122C2A7E3B991B508DFB52E5 /* Pods-The Balloon Game-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 581CA266EF59AB0ED1645A36A28F0A53 /* Pods-The Balloon Game-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6B0EE2513266AC8A57D173211C6BF901 /* STZPopupView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 41C0845330A1897EEBA793DED51C8415 /* STZPopupView-dummy.m */; };
-		88EB68B1ED2C796E627CD1AFDAE11C61 /* Pods-The Balloon Game-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 218F6388CD72B5B55BA35F30BD659F17 /* Pods-The Balloon Game-dummy.m */; };
+		069CC9707F2680D5F22E007BFE7A6FE8 /* Pods-AR Bomb Squad-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F61D4339E5ECC2933BD6B178C2063A0 /* Pods-AR Bomb Squad-dummy.m */; };
+		11DD844C6C023160366AC85664E443AB /* STZPopupViewConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87ED7FED15A4BA059E406F2469281353 /* STZPopupViewConfig.swift */; };
+		338ACA0AB612C82375F310F90889326E /* STZPopupView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 41C0845330A1897EEBA793DED51C8415 /* STZPopupView-dummy.m */; };
+		6C57B9D11E9C8E35F75E204367BBD07D /* STZPopupView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BD8C73B31DBBE5232AA9E87F57EBDF3B /* STZPopupView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AF205EFE560DBDB20701BCAFAE333764 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		B26015BF7F95733F420D2674D307C949 /* Pods-AR Bomb Squad-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B43C591F5928FCB2ED807A3F58FF5CB1 /* Pods-AR Bomb Squad-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C1F35EC0DBE3E48F75C0581DA5A40AE4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		D361F852E81A09C0ACFB7E24F7E43FD6 /* MZTimerLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DC001CDFD19462FCAAC4BB47C65EB4B /* MZTimerLabel-dummy.m */; };
 		D888287A14694990789DC3A945ABB16E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
-		E0716D098318B8EBCD6C1E6BDF8C8F0C /* STZPopupViewConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87ED7FED15A4BA059E406F2469281353 /* STZPopupViewConfig.swift */; };
+		E474BAC49DEF523CDB4A14E51B90788C /* UIViewController+STZPopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9480BC406874A9209191A86D0EB956 /* UIViewController+STZPopupView.swift */; };
 		F4A2AD729A9D9B9FD58EB5C36A751297 /* MZTimerLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FA1E53ADE7015B1FA19734CDAF155A0 /* MZTimerLabel.m */; };
 		F5A5996E49FB0CC06D9A964B7431192C /* MZTimerLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = A393C4248285972C8DFD1C6498ED54E4 /* MZTimerLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		57EDE04B7D74FFA39A2776D314F8C1D9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 67E2D69444FB3BA770C8345B846B63A6;
-			remoteInfo = STZPopupView;
-		};
-		8896286ADC5CBED376BEDB01B2688B82 /* PBXContainerItemProxy */ = {
+		4A4922D75189F16B215B92EA0C35E0FC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5DA9D424D96F4D772D20C95ED50F5163;
 			remoteInfo = MZTimerLabel;
 		};
+		9358E5E8D2FA1A0C11294C65F8C66757 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 523079BE42E3AED8CA62EDE27ECAB58B;
+			remoteInfo = STZPopupView;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		00657C02F2171ED1F36A3D222B8B1112 /* MZTimerLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MZTimerLabel.modulemap; sourceTree = "<group>"; };
 		024D6F66711DE8D9F494BB2B115B0E1A /* MZTimerLabel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MZTimerLabel-prefix.pch"; sourceTree = "<group>"; };
-		1906A7C70746FB191DEDA3C654058437 /* Pods-The Balloon Game-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-The Balloon Game-Info.plist"; sourceTree = "<group>"; };
 		1F31C0DC99EA0AC1E093315A1742F58E /* MZTimerLabel-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MZTimerLabel-Info.plist"; sourceTree = "<group>"; };
-		218F6388CD72B5B55BA35F30BD659F17 /* Pods-The Balloon Game-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-The Balloon Game-dummy.m"; sourceTree = "<group>"; };
+		2CA7E65B92064CB3F869EFCF8E623C54 /* Pods_AR_Bomb_Squad.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AR_Bomb_Squad.framework; path = "Pods-AR Bomb Squad.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		323F44D5F686ED0D3E2C6E2D3C64CFAF /* STZPopupView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "STZPopupView-prefix.pch"; sourceTree = "<group>"; };
-		3C0B56E22A803E6EBF0BCFA4DC2442E9 /* Pods-The Balloon Game-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-The Balloon Game-frameworks.sh"; sourceTree = "<group>"; };
-		3E280FB25687A093016326614E6B6826 /* Pods-The Balloon Game-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-The Balloon Game-acknowledgements.markdown"; sourceTree = "<group>"; };
+		39B23E88D5AC629DC7156E819F613742 /* Pods-AR Bomb Squad.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AR Bomb Squad.modulemap"; sourceTree = "<group>"; };
+		3B7A51C1BC79EFA16B384548AE5416F0 /* Pods-AR Bomb Squad-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AR Bomb Squad-Info.plist"; sourceTree = "<group>"; };
 		3FA1E53ADE7015B1FA19734CDAF155A0 /* MZTimerLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MZTimerLabel.m; path = MZTimerLabel/MZTimerLabel.m; sourceTree = "<group>"; };
 		41C0845330A1897EEBA793DED51C8415 /* STZPopupView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "STZPopupView-dummy.m"; sourceTree = "<group>"; };
-		4C4AD2340C455021C488FCFDF5496A9C /* Pods-The Balloon Game-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-The Balloon Game-acknowledgements.plist"; sourceTree = "<group>"; };
-		581CA266EF59AB0ED1645A36A28F0A53 /* Pods-The Balloon Game-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-The Balloon Game-umbrella.h"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		69DDCB8AE9656E20AFD368A6ACA618AC /* MZTimerLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MZTimerLabel.framework; path = MZTimerLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F61D4339E5ECC2933BD6B178C2063A0 /* Pods-AR Bomb Squad-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AR Bomb Squad-dummy.m"; sourceTree = "<group>"; };
+		85B2376901F9D9FF7CCEA1291421294D /* Pods-AR Bomb Squad.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AR Bomb Squad.release.xcconfig"; sourceTree = "<group>"; };
+		87CFB01024588C39CF78FA334E7BDA09 /* Pods-AR Bomb Squad-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AR Bomb Squad-frameworks.sh"; sourceTree = "<group>"; };
 		87ED7FED15A4BA059E406F2469281353 /* STZPopupViewConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = STZPopupViewConfig.swift; path = Source/STZPopupViewConfig.swift; sourceTree = "<group>"; };
 		8DC001CDFD19462FCAAC4BB47C65EB4B /* MZTimerLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MZTimerLabel-dummy.m"; sourceTree = "<group>"; };
-		8F5C2668700B10CFB575A18565D2F261 /* STZPopupView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = STZPopupView.framework; path = STZPopupView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A393C4248285972C8DFD1C6498ED54E4 /* MZTimerLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MZTimerLabel.h; path = MZTimerLabel/MZTimerLabel.h; sourceTree = "<group>"; };
-		AA42904CDD00E3C4920E048EB816DE1F /* Pods-The Balloon Game.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-The Balloon Game.debug.xcconfig"; sourceTree = "<group>"; };
-		AE4CF17D2B3CF7B47C53901145CAB82C /* Pods_The_Balloon_Game.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_The_Balloon_Game.framework; path = "Pods-The Balloon Game.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B18E6C004619A284AFB467F2EA58BF6A /* Pods-The Balloon Game.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-The Balloon Game.modulemap"; sourceTree = "<group>"; };
+		AAF79FEA582B73F458BA4A5FFD1853C7 /* MZTimerLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MZTimerLabel.framework; path = MZTimerLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B43C591F5928FCB2ED807A3F58FF5CB1 /* Pods-AR Bomb Squad-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AR Bomb Squad-umbrella.h"; sourceTree = "<group>"; };
 		BD8C73B31DBBE5232AA9E87F57EBDF3B /* STZPopupView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "STZPopupView-umbrella.h"; sourceTree = "<group>"; };
 		BE8D151B67998349BA8BD2FB11FE4696 /* MZTimerLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MZTimerLabel-umbrella.h"; sourceTree = "<group>"; };
 		C4AAEABA1A26C91DB97D7B50CF3560AE /* MZTimerLabel.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MZTimerLabel.xcconfig; sourceTree = "<group>"; };
-		CC0205674BE40E9D2A37A37F0A8E6C97 /* Pods-The Balloon Game.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-The Balloon Game.release.xcconfig"; sourceTree = "<group>"; };
+		CAEE2F8D4A98A027BE7E47F5E04DB87D /* STZPopupView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = STZPopupView.framework; path = STZPopupView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD9480BC406874A9209191A86D0EB956 /* UIViewController+STZPopupView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+STZPopupView.swift"; path = "Source/UIViewController+STZPopupView.swift"; sourceTree = "<group>"; };
+		D4A7BEED9BF64F7A4D2DED3E9A4C0727 /* Pods-AR Bomb Squad-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AR Bomb Squad-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E150F85662AAC9E4838953D90486F73F /* Pods-AR Bomb Squad-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AR Bomb Squad-acknowledgements.plist"; sourceTree = "<group>"; };
 		E413B23D74AA91A50382EEE52F37D7A2 /* STZPopupView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = STZPopupView.xcconfig; sourceTree = "<group>"; };
 		F41D9DE67910AC0DFD3D55B18166DE25 /* STZPopupView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = STZPopupView.modulemap; sourceTree = "<group>"; };
 		FC6AF0E0F3576942F72AB13EA586DAEF /* STZPopupView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "STZPopupView-Info.plist"; sourceTree = "<group>"; };
+		FF28788BAD315D6149F6110C60FF80B8 /* Pods-AR Bomb Squad.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AR Bomb Squad.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,19 +81,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		977883DD0258F59C1FBBB92B53F795CA /* Frameworks */ = {
+		B4E5B95D0CF9B188B32B0F578CEE9FC4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C0071EC34573DAF3BAF60B1A3A0AFEE /* Foundation.framework in Frameworks */,
+				AF205EFE560DBDB20701BCAFAE333764 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E63B1655A1DCB10797A4C0AF3699F6A6 /* Frameworks */ = {
+		F37CD84A02C538B66365C59DF129C270 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				337360981356ECCE7A837399087EFEB5 /* Foundation.framework in Frameworks */,
+				C1F35EC0DBE3E48F75C0581DA5A40AE4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -125,33 +125,6 @@
 			path = MZTimerLabel;
 			sourceTree = "<group>";
 		};
-		2DF9994725E5534B886502515B621080 /* Pods-The Balloon Game */ = {
-			isa = PBXGroup;
-			children = (
-				B18E6C004619A284AFB467F2EA58BF6A /* Pods-The Balloon Game.modulemap */,
-				3E280FB25687A093016326614E6B6826 /* Pods-The Balloon Game-acknowledgements.markdown */,
-				4C4AD2340C455021C488FCFDF5496A9C /* Pods-The Balloon Game-acknowledgements.plist */,
-				218F6388CD72B5B55BA35F30BD659F17 /* Pods-The Balloon Game-dummy.m */,
-				3C0B56E22A803E6EBF0BCFA4DC2442E9 /* Pods-The Balloon Game-frameworks.sh */,
-				1906A7C70746FB191DEDA3C654058437 /* Pods-The Balloon Game-Info.plist */,
-				581CA266EF59AB0ED1645A36A28F0A53 /* Pods-The Balloon Game-umbrella.h */,
-				AA42904CDD00E3C4920E048EB816DE1F /* Pods-The Balloon Game.debug.xcconfig */,
-				CC0205674BE40E9D2A37A37F0A8E6C97 /* Pods-The Balloon Game.release.xcconfig */,
-			);
-			name = "Pods-The Balloon Game";
-			path = "Target Support Files/Pods-The Balloon Game";
-			sourceTree = "<group>";
-		};
-		42DA53918F33264EF562C2535FDDC7B6 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				69DDCB8AE9656E20AFD368A6ACA618AC /* MZTimerLabel.framework */,
-				AE4CF17D2B3CF7B47C53901145CAB82C /* Pods_The_Balloon_Game.framework */,
-				8F5C2668700B10CFB575A18565D2F261 /* STZPopupView.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		55F34B4A49B81EF918B6715848012C5F /* STZPopupView */ = {
 			isa = PBXGroup;
 			children = (
@@ -177,8 +150,8 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				C6A098904F342A43C6DC7C2A164037B4 /* Pods */,
-				42DA53918F33264EF562C2535FDDC7B6 /* Products */,
-				FAE2D5BE145EBFD301FCD8DAD4542ACE /* Targets Support Files */,
+				C66DE37E25EF2CDCC418FB82595CCBF1 /* Products */,
+				C6E4C6CF9AE0CE1BD3BCDD6639AABF62 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -204,6 +177,16 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		C66DE37E25EF2CDCC418FB82595CCBF1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AAF79FEA582B73F458BA4A5FFD1853C7 /* MZTimerLabel.framework */,
+				2CA7E65B92064CB3F869EFCF8E623C54 /* Pods_AR_Bomb_Squad.framework */,
+				CAEE2F8D4A98A027BE7E47F5E04DB87D /* STZPopupView.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		C6A098904F342A43C6DC7C2A164037B4 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -213,17 +196,42 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		FAE2D5BE145EBFD301FCD8DAD4542ACE /* Targets Support Files */ = {
+		C6E4C6CF9AE0CE1BD3BCDD6639AABF62 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				2DF9994725E5534B886502515B621080 /* Pods-The Balloon Game */,
+				CFC322B7B820C6DEEE8688854D50F2EE /* Pods-AR Bomb Squad */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		CFC322B7B820C6DEEE8688854D50F2EE /* Pods-AR Bomb Squad */ = {
+			isa = PBXGroup;
+			children = (
+				39B23E88D5AC629DC7156E819F613742 /* Pods-AR Bomb Squad.modulemap */,
+				D4A7BEED9BF64F7A4D2DED3E9A4C0727 /* Pods-AR Bomb Squad-acknowledgements.markdown */,
+				E150F85662AAC9E4838953D90486F73F /* Pods-AR Bomb Squad-acknowledgements.plist */,
+				6F61D4339E5ECC2933BD6B178C2063A0 /* Pods-AR Bomb Squad-dummy.m */,
+				87CFB01024588C39CF78FA334E7BDA09 /* Pods-AR Bomb Squad-frameworks.sh */,
+				3B7A51C1BC79EFA16B384548AE5416F0 /* Pods-AR Bomb Squad-Info.plist */,
+				B43C591F5928FCB2ED807A3F58FF5CB1 /* Pods-AR Bomb Squad-umbrella.h */,
+				FF28788BAD315D6149F6110C60FF80B8 /* Pods-AR Bomb Squad.debug.xcconfig */,
+				85B2376901F9D9FF7CCEA1291421294D /* Pods-AR Bomb Squad.release.xcconfig */,
+			);
+			name = "Pods-AR Bomb Squad";
+			path = "Target Support Files/Pods-AR Bomb Squad";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		26CE41BA0F6CA6E0DDA8779D44F4FBD3 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B26015BF7F95733F420D2674D307C949 /* Pods-AR Bomb Squad-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5D3BAC2B0B7E85F3D8782E1BB866D427 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -233,25 +241,55 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6A923751BA8AB9C4E5CED495BFC79E17 /* Headers */ = {
+		EFD006718AE2C608BA578A06AC870D5C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21B6EB41F3A3E3CDE679B59B0084DB9B /* STZPopupView-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CDCD422EC84D4F8576228F0FB8B305F7 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				58A0CBAB122C2A7E3B991B508DFB52E5 /* Pods-The Balloon Game-umbrella.h in Headers */,
+				6C57B9D11E9C8E35F75E204367BBD07D /* STZPopupView-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		4AC3D4E221433A9698C2345BADC40827 /* Pods-AR Bomb Squad */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84D73B9652CA0874F50BAC46C158FAB6 /* Build configuration list for PBXNativeTarget "Pods-AR Bomb Squad" */;
+			buildPhases = (
+				26CE41BA0F6CA6E0DDA8779D44F4FBD3 /* Headers */,
+				4D56B1A68A421A824FD4C61CCBAA773E /* Sources */,
+				F37CD84A02C538B66365C59DF129C270 /* Frameworks */,
+				C593C04E9ED15D3FF856D86E59F1D790 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B666F7A5C4EBA6A636772AC8C2CD4139 /* PBXTargetDependency */,
+				469CBFBE0C433F397D5161155C2B15EF /* PBXTargetDependency */,
+			);
+			name = "Pods-AR Bomb Squad";
+			productName = "Pods-AR Bomb Squad";
+			productReference = 2CA7E65B92064CB3F869EFCF8E623C54 /* Pods_AR_Bomb_Squad.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		523079BE42E3AED8CA62EDE27ECAB58B /* STZPopupView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4F9907822D00D471B1E7A54DC2092D6C /* Build configuration list for PBXNativeTarget "STZPopupView" */;
+			buildPhases = (
+				EFD006718AE2C608BA578A06AC870D5C /* Headers */,
+				35CF145623723ACE4848C1D74B178143 /* Sources */,
+				B4E5B95D0CF9B188B32B0F578CEE9FC4 /* Frameworks */,
+				92C495B21312AAABD2564FE90E80561A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = STZPopupView;
+			productName = STZPopupView;
+			productReference = CAEE2F8D4A98A027BE7E47F5E04DB87D /* STZPopupView.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		5DA9D424D96F4D772D20C95ED50F5163 /* MZTimerLabel */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A36326D57965E7621B61FEC00B1B4775 /* Build configuration list for PBXNativeTarget "MZTimerLabel" */;
@@ -267,45 +305,7 @@
 			);
 			name = MZTimerLabel;
 			productName = MZTimerLabel;
-			productReference = 69DDCB8AE9656E20AFD368A6ACA618AC /* MZTimerLabel.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		665C1E0B1AD66C07B2E2B11EDDEB38AF /* Pods-The Balloon Game */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 09203303E1EA9613B5DF02C81993C651 /* Build configuration list for PBXNativeTarget "Pods-The Balloon Game" */;
-			buildPhases = (
-				CDCD422EC84D4F8576228F0FB8B305F7 /* Headers */,
-				7895157105A129CB96A5A463ED2E8158 /* Sources */,
-				E63B1655A1DCB10797A4C0AF3699F6A6 /* Frameworks */,
-				80507D7AE9866BBA8F6D8F8B7B6B6D5B /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				630424B9DB3AD6473E4CC7A05F4B541B /* PBXTargetDependency */,
-				7340F17896BB6B43A52D6B111823FAB5 /* PBXTargetDependency */,
-			);
-			name = "Pods-The Balloon Game";
-			productName = "Pods-The Balloon Game";
-			productReference = AE4CF17D2B3CF7B47C53901145CAB82C /* Pods_The_Balloon_Game.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		67E2D69444FB3BA770C8345B846B63A6 /* STZPopupView */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 58C170BAC790B5A6A32A31D43A20F69D /* Build configuration list for PBXNativeTarget "STZPopupView" */;
-			buildPhases = (
-				6A923751BA8AB9C4E5CED495BFC79E17 /* Headers */,
-				F8475EF6012932A76C22D0F27A2030B0 /* Sources */,
-				977883DD0258F59C1FBBB92B53F795CA /* Frameworks */,
-				CE9C76313ACA5B11FFBD7DDCB2347893 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = STZPopupView;
-			productName = STZPopupView;
-			productReference = 8F5C2668700B10CFB575A18565D2F261 /* STZPopupView.framework */;
+			productReference = AAF79FEA582B73F458BA4A5FFD1853C7 /* MZTimerLabel.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -325,13 +325,13 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 42DA53918F33264EF562C2535FDDC7B6 /* Products */;
+			productRefGroup = C66DE37E25EF2CDCC418FB82595CCBF1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				5DA9D424D96F4D772D20C95ED50F5163 /* MZTimerLabel */,
-				665C1E0B1AD66C07B2E2B11EDDEB38AF /* Pods-The Balloon Game */,
-				67E2D69444FB3BA770C8345B846B63A6 /* STZPopupView */,
+				4AC3D4E221433A9698C2345BADC40827 /* Pods-AR Bomb Squad */,
+				523079BE42E3AED8CA62EDE27ECAB58B /* STZPopupView */,
 			);
 		};
 /* End PBXProject section */
@@ -344,14 +344,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		80507D7AE9866BBA8F6D8F8B7B6B6D5B /* Resources */ = {
+		92C495B21312AAABD2564FE90E80561A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CE9C76313ACA5B11FFBD7DDCB2347893 /* Resources */ = {
+		C593C04E9ED15D3FF856D86E59F1D790 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -370,78 +370,45 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7895157105A129CB96A5A463ED2E8158 /* Sources */ = {
+		35CF145623723ACE4848C1D74B178143 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88EB68B1ED2C796E627CD1AFDAE11C61 /* Pods-The Balloon Game-dummy.m in Sources */,
+				338ACA0AB612C82375F310F90889326E /* STZPopupView-dummy.m in Sources */,
+				11DD844C6C023160366AC85664E443AB /* STZPopupViewConfig.swift in Sources */,
+				E474BAC49DEF523CDB4A14E51B90788C /* UIViewController+STZPopupView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8475EF6012932A76C22D0F27A2030B0 /* Sources */ = {
+		4D56B1A68A421A824FD4C61CCBAA773E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6B0EE2513266AC8A57D173211C6BF901 /* STZPopupView-dummy.m in Sources */,
-				E0716D098318B8EBCD6C1E6BDF8C8F0C /* STZPopupViewConfig.swift in Sources */,
-				29649866297DF4AFBDFE6E6E71081C50 /* UIViewController+STZPopupView.swift in Sources */,
+				069CC9707F2680D5F22E007BFE7A6FE8 /* Pods-AR Bomb Squad-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		630424B9DB3AD6473E4CC7A05F4B541B /* PBXTargetDependency */ = {
+		469CBFBE0C433F397D5161155C2B15EF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = STZPopupView;
+			target = 523079BE42E3AED8CA62EDE27ECAB58B /* STZPopupView */;
+			targetProxy = 9358E5E8D2FA1A0C11294C65F8C66757 /* PBXContainerItemProxy */;
+		};
+		B666F7A5C4EBA6A636772AC8C2CD4139 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MZTimerLabel;
 			target = 5DA9D424D96F4D772D20C95ED50F5163 /* MZTimerLabel */;
-			targetProxy = 8896286ADC5CBED376BEDB01B2688B82 /* PBXContainerItemProxy */;
-		};
-		7340F17896BB6B43A52D6B111823FAB5 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = STZPopupView;
-			target = 67E2D69444FB3BA770C8345B846B63A6 /* STZPopupView */;
-			targetProxy = 57EDE04B7D74FFA39A2776D314F8C1D9 /* PBXContainerItemProxy */;
+			targetProxy = 4A4922D75189F16B215B92EA0C35E0FC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		010944888CEC301D8548304D3A17F78A /* Release */ = {
+		0063391029CE91004D56A28A9C76917E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C4AAEABA1A26C91DB97D7B50CF3560AE /* MZTimerLabel.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MZTimerLabel/MZTimerLabel-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel.modulemap";
-				PRODUCT_MODULE_NAME = MZTimerLabel;
-				PRODUCT_NAME = MZTimerLabel;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		181C1475F451E0DA268BA7BC6067EEE2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AA42904CDD00E3C4920E048EB816DE1F /* Pods-The Balloon Game.debug.xcconfig */;
+			baseConfigurationReference = FF28788BAD315D6149F6110C60FF80B8 /* Pods-AR Bomb Squad.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
@@ -455,12 +422,16 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -476,7 +447,142 @@
 			};
 			name = Debug;
 		};
-		8C3D32AC054F4DBEE82EB2FD6A303D73 /* Debug */ = {
+		093DC13A5AA032B1CFFA28FA511EF08A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E413B23D74AA91A50382EEE52F37D7A2 /* STZPopupView.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/STZPopupView/STZPopupView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/STZPopupView/STZPopupView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/STZPopupView/STZPopupView.modulemap";
+				PRODUCT_MODULE_NAME = STZPopupView;
+				PRODUCT_NAME = STZPopupView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		40B45BB3CF3EE4476259302A7FAAD78F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		6856A781F95F2C1329A195D3400528D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E413B23D74AA91A50382EEE52F37D7A2 /* STZPopupView.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/STZPopupView/STZPopupView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/STZPopupView/STZPopupView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/STZPopupView/STZPopupView.modulemap";
+				PRODUCT_MODULE_NAME = STZPopupView;
+				PRODUCT_NAME = STZPopupView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		85ED3013A635C27F8B7FAF51362B108C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -529,7 +635,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -540,7 +646,49 @@
 			};
 			name = Debug;
 		};
-		90BC875281D2CA927AEDC8599C596BCC /* Debug */ = {
+		E2722C17FEEE137713AF3081DE719716 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 85B2376901F9D9FF7CCEA1291421294D /* Pods-AR Bomb Squad.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E4A4BDDBB31C949E8D6C63B31759F379 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C4AAEABA1A26C91DB97D7B50CF3560AE /* MZTimerLabel.xcconfig */;
 			buildSettings = {
@@ -558,23 +706,27 @@
 				INFOPLIST_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MODULEMAP_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel.modulemap";
 				PRODUCT_MODULE_NAME = MZTimerLabel;
 				PRODUCT_NAME = MZTimerLabel;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		A93ABFA473DF0C06E51823B42DF180A1 /* Release */ = {
+		FEFB9E16ED3D0B185290228CF4EB8709 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E413B23D74AA91A50382EEE52F37D7A2 /* STZPopupView.xcconfig */;
+			baseConfigurationReference = C4AAEABA1A26C91DB97D7B50CF3560AE /* MZTimerLabel.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
@@ -586,183 +738,55 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/STZPopupView/STZPopupView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/STZPopupView/STZPopupView-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/MZTimerLabel/MZTimerLabel-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/STZPopupView/STZPopupView.modulemap";
-				PRODUCT_MODULE_NAME = STZPopupView;
-				PRODUCT_NAME = STZPopupView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		B751CA5B597BFC35A6C0287C65F9E2E1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"POD_CONFIGURATION_RELEASE=1",
+				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
 				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		CB9774511025D160CFDE37D0C56004FB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CC0205674BE40E9D2A37A37F0A8E6C97 /* Pods-The Balloon Game.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-The Balloon Game/Pods-The Balloon Game.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				MODULEMAP_FILE = "Target Support Files/MZTimerLabel/MZTimerLabel.modulemap";
+				PRODUCT_MODULE_NAME = MZTimerLabel;
+				PRODUCT_NAME = MZTimerLabel;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		F61630A38E92D82EB2E151B0E4E7EEFD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E413B23D74AA91A50382EEE52F37D7A2 /* STZPopupView.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/STZPopupView/STZPopupView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/STZPopupView/STZPopupView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/STZPopupView/STZPopupView.modulemap";
-				PRODUCT_MODULE_NAME = STZPopupView;
-				PRODUCT_NAME = STZPopupView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		09203303E1EA9613B5DF02C81993C651 /* Build configuration list for PBXNativeTarget "Pods-The Balloon Game" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				181C1475F451E0DA268BA7BC6067EEE2 /* Debug */,
-				CB9774511025D160CFDE37D0C56004FB /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8C3D32AC054F4DBEE82EB2FD6A303D73 /* Debug */,
-				B751CA5B597BFC35A6C0287C65F9E2E1 /* Release */,
+				85ED3013A635C27F8B7FAF51362B108C /* Debug */,
+				40B45BB3CF3EE4476259302A7FAAD78F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		58C170BAC790B5A6A32A31D43A20F69D /* Build configuration list for PBXNativeTarget "STZPopupView" */ = {
+		4F9907822D00D471B1E7A54DC2092D6C /* Build configuration list for PBXNativeTarget "STZPopupView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F61630A38E92D82EB2E151B0E4E7EEFD /* Debug */,
-				A93ABFA473DF0C06E51823B42DF180A1 /* Release */,
+				093DC13A5AA032B1CFFA28FA511EF08A /* Debug */,
+				6856A781F95F2C1329A195D3400528D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84D73B9652CA0874F50BAC46C158FAB6 /* Build configuration list for PBXNativeTarget "Pods-AR Bomb Squad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0063391029CE91004D56A28A9C76917E /* Debug */,
+				E2722C17FEEE137713AF3081DE719716 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -770,8 +794,8 @@
 		A36326D57965E7621B61FEC00B1B4775 /* Build configuration list for PBXNativeTarget "MZTimerLabel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				90BC875281D2CA927AEDC8599C596BCC /* Debug */,
-				010944888CEC301D8548304D3A17F78A /* Release */,
+				E4A4BDDBB31C949E8D6C63B31759F379 /* Debug */,
+				FEFB9E16ED3D0B185290228CF4EB8709 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

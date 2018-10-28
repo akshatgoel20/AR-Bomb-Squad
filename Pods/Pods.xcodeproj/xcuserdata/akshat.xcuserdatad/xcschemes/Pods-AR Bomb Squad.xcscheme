@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "523079BE42E3AED8CA62EDE27ECAB58B"
-               BlueprintName = "STZPopupView"
+               BlueprintIdentifier = "4AC3D4E221433A9698C2345BADC40827"
+               BlueprintName = "Pods-AR Bomb Squad"
                ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "STZPopupView.framework">
+               BuildableName = "Pods-AR Bomb Squad.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
