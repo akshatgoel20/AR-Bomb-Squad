@@ -7,7 +7,11 @@
 		<key>AR Bomb Squad.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
+<<<<<<< HEAD
 			<integer>3</integer>
+=======
+			<integer>0</integer>
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 		</dict>
 	</dict>
 </dict>

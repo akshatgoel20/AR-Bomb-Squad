@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		197DD0411E6AF527F06836E8 /* Pods_AR_Bomb_Squad.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4DAD93602598729BFF716396 /* Pods_AR_Bomb_Squad.framework */; };
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 		ACE0DAE92169A6340016C89F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACE0DAE82169A6340016C89F /* AppDelegate.swift */; };
 		ACE0DAEB2169A6340016C89F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACE0DAEA2169A6340016C89F /* ViewController.swift */; };
 		ACE0DAEE2169A6340016C89F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACE0DAEC2169A6340016C89F /* Main.storyboard */; };
@@ -17,9 +20,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		2B5BD7D8A58A5DCAF8083B77 /* Pods-AR Bomb Squad.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR Bomb Squad.debug.xcconfig"; path = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad.debug.xcconfig"; sourceTree = "<group>"; };
 		3C18CAC94D492BAFB1258103 /* Pods-AR Bomb Squad.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AR Bomb Squad.release.xcconfig"; path = "Target Support Files/Pods-AR Bomb Squad/Pods-AR Bomb Squad.release.xcconfig"; sourceTree = "<group>"; };
 		4DAD93602598729BFF716396 /* Pods_AR_Bomb_Squad.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AR_Bomb_Squad.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 		ACE0DAE52169A6340016C89F /* AR Bomb Squad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Bomb Squad.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACE0DAE82169A6340016C89F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACE0DAEA2169A6340016C89F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,13 +41,17 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				197DD0411E6AF527F06836E8 /* Pods_AR_Bomb_Squad.framework in Frameworks */,
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+<<<<<<< HEAD
 		49C1DC767E4194B2948AA7AF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -50,13 +60,18 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 		ACE0DADC2169A6330016C89F = {
 			isa = PBXGroup;
 			children = (
 				ACE0DAE72169A6340016C89F /* AR Bomb Squad */,
 				ACE0DAE62169A6340016C89F /* Products */,
+<<<<<<< HEAD
 				C236BFE395FF400B608C06FF /* Pods */,
 				49C1DC767E4194B2948AA7AF /* Frameworks */,
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 			);
 			sourceTree = "<group>";
 		};
@@ -82,6 +97,7 @@
 			path = "AR Bomb Squad";
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		C236BFE395FF400B608C06FF /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -92,6 +108,8 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -99,11 +117,17 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = ACE0DAFA2169A6360016C89F /* Build configuration list for PBXNativeTarget "AR Bomb Squad" */;
 			buildPhases = (
+<<<<<<< HEAD
 				D97E73969C868A03D90B6C75 /* [CP] Check Pods Manifest.lock */,
 				ACE0DAE12169A6340016C89F /* Sources */,
 				ACE0DAE22169A6340016C89F /* Frameworks */,
 				ACE0DAE32169A6340016C89F /* Resources */,
 				6E6986CB6DC21F4B3C5F82C3 /* [CP] Embed Pods Frameworks */,
+=======
+				ACE0DAE12169A6340016C89F /* Sources */,
+				ACE0DAE22169A6340016C89F /* Frameworks */,
+				ACE0DAE32169A6340016C89F /* Resources */,
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 			);
 			buildRules = (
 			);
@@ -160,6 +184,7 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+<<<<<<< HEAD
 /* Begin PBXShellScriptBuildPhase section */
 		6E6986CB6DC21F4B3C5F82C3 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -209,6 +234,8 @@
 		};
 /* End PBXShellScriptBuildPhase section */
 
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 /* Begin PBXSourcesBuildPhase section */
 		ACE0DAE12169A6340016C89F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -360,7 +387,10 @@
 		};
 		ACE0DAFB2169A6360016C89F /* Debug */ = {
 			isa = XCBuildConfiguration;
+<<<<<<< HEAD
 			baseConfigurationReference = 2B5BD7D8A58A5DCAF8083B77 /* Pods-AR Bomb Squad.debug.xcconfig */;
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -379,7 +409,10 @@
 		};
 		ACE0DAFC2169A6360016C89F /* Release */ = {
 			isa = XCBuildConfiguration;
+<<<<<<< HEAD
 			baseConfigurationReference = 3C18CAC94D492BAFB1258103 /* Pods-AR Bomb Squad.release.xcconfig */;
+=======
+>>>>>>> ee598d02a916bb8c317dce4542990b0ac1a67854
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
